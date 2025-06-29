@@ -2,7 +2,7 @@
 
 Calculate your carbon footprint, and find out how much you have to do to eliminate it!
 
-The website link : 
+The website link : https://baliyannikky723.github.io/Carbon_Calculator/
 ___
 
 # What is "Carbon footprint"?
